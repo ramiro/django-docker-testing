@@ -31,5 +31,5 @@ Sit back and enjoy!
 
 Example assumes you're using `tox` already. (Do so, it's great.)
 
-The `dev` tag awaits finalising the tagging scheme. See #1.
+The `dev` tag awaits finalising the tagging scheme. See [#1](https://github.com/carltongibson/django-docker-testing/issues/1).
 
